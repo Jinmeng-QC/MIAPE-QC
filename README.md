@@ -1,2 +1,9 @@
 # MIAPE-QC
 Minimum information about a proteomics experiment - Quality Control
+
+Quality control (QC) is increasingly recognized as a crucial aspect of mass spectrometry based proteomics. As a result, software tools for computing quality control metrics for mass spectrometry data started to proliferate in recent years. 
+However, as the different tools that compute the diverse metrics from experimental LC-MS/MS data can extract only a limited number of QC features, it is a challenging task to compare and integratively analyze the outputs of these tools. Thus, a standard documentation of QC-specific metadata is required not only to unify the features from different QC metrics, but also to facilitate data exchange and make sensible decisions by using this common set of QC metrics.
+To meet this urgent need, the newly launched HUPO-PSI QC standard initiative develops the MIAPE-QC document as one of its key modules. As the first step, we have collected and classified a set of LC-MS/MS QC metadata based on the existing works of QC metrics, qcML and QC ontology, as well as additional metrics collected from experimentalists. Similar to the other sister MIAPE guidelines, a minimum set of QC metadata will be defined in MIAPE-QC for easy community adoption; in addition, a new “wish list” mechanism will be developed to capture richer QC information for possible future induction of new consensus terms to the minimum list, and stronger semantic links of meta terms with QC controlled vocabularies and ontology modules. 
+As we are now at the early stage of drafting MIAPE-QC standard document for LC-MS/MS experiment, it is very improtant for us to integrate our draft list by taking the consideration of requirements from scientists as well as getting suggestions from experts in QC field. 
+
+The current 'Wishing list' of MIAPE-QC draft shows in the document. We wellcome anyone who is interested in. 
