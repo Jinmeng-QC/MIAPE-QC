@@ -2,17 +2,6 @@
 
 **Overiew**
 
-The workflow of MIAPE-QC is shown as below: 
-
-```
-graph LR
-experimental_files-->Metadata_fields
-QC_tools-->QC_metrics
-MIAPE-like_documents-->Essential_parameters
-Metadata_fields-->MIAPE-QC
-QC_metrics-->MIAPE-QC
-Essential_parameters-->MIAPE-QC
-```
 Information and parameters in MIAPE-QC checklist are mainly extracted from three parts: the metadata fields collected from the public experimental reports, the QC metrics generated from different QC tools and the essential parameters listed in PSI MIAPE-like documents. For each parameter/metric in MIAPE-QC checklist, not only the description (including concise definition and details) but also annotations (e.g. synonyms, related existing CV terms) will be provided to eliminate its ambiguity and inconsistence through different sources. What's more, a short description about the reason why this information should be submitted will also be added to make the readers a better understanding.  
 
 **Statistics**
@@ -44,7 +33,7 @@ Information and parameters in MIAPE-QC checklist are mainly extracted from three
 
 ### Working Progress 
 
-From **++April 28th, 2017++** (after the disscusion in Beijing) to **++May 25th, 2017++**.
+From **April 28th, 2017** (after the disscusion in Beijing) to **May 25th, 2017**.
 
 - [x] - Collected qc metrics and mapping metrics throuh existing CVs. 
 - [x] - Extracted minimal metrics for MIAPE-QC (extracted 40 QC metrics from all the metrics collected from QC tools and 9 essential parameters/descriptors from experimental reprots and MIAPE-like documents)
