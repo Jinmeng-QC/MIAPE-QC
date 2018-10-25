@@ -1,6 +1,6 @@
 **Minimum checklist for the metabolomics QC experiment**
 
-## Experimental design and Sample Description
+## Experimental design and sample description
 
 - Organism
 - Sample Description
