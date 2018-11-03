@@ -6,7 +6,7 @@
 - Sample Description
 - Tissue/Cell Type
 - Sample Preparation Description
-- _**Analytical Sequence Preparation (Under discussion)**_
+- Analytical Sequence
   - To avoid introducing bias due to changes with individual analytical runs and between run “batch effects”. The sample older of the samples should be randomized. [**Sample analysis order**] and QC samples should not be randomized but inserted regularly in the run sequence. [**QC sample analysis order**] 
   - Standard solution injections and blank sample injections should be avoided within the batch of test samples, as the system can be disequilibrated by the injection of non-matrix solutions. (eg. Insert the spiked test mix solution in the middle of the sequence and at the end after column equilibration)
 - Instrument Description
