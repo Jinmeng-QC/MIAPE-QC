@@ -8,7 +8,7 @@
   - Ion Source
   - Ionization Mode
   
-To meet the above information, one can provide a short discription like this: Chromatographic analysis has been performed on a **HSS T3 C18 column[Analytical columns]**. And an **ultrahigh performance liquid chromatography (U(H)PLC) system coupled to a high-resolution mass spectrometer[Instrument]** with an **ESI source[Ion Source]** has been adopted.The analysis was performed **in positive (ESI+) mode [Ionization Mode]**.
+To meet the above information, one can provide a short description like this: Chromatographic analysis has been performed on a **HSS T3 C18 column[Analytical columns]**. And an **ultrahigh performance liquid chromatography (U(H)PLC) system coupled to a high-resolution mass spectrometer[Instrument]** with an **ESI source[Ion Source]** has been adopted. The analysis was performed **in positive (ESI+) mode [Ionization Mode]**.
 
 
 ## Methods - Experimental design
@@ -21,7 +21,7 @@ A short introduction of the experiment. Provide the information as follows.
 - Scan Time
 - Dwell Time
 
-To meet the above information, one can provide a short discription like this: This study presented a **Personal [Organism]** metabolomics profile from **a single individual over a 10-month period [Sample Description]**. About 120 uL of **the serum sample [Tissue/Cell Type]** was used for this study. Data were recorded for the **m/z region of 50–1000 in V-mode [m/z Region]** with **a scan time of 0.20s [Scan Time]** and **dwell time of 0.01s [Dwell Time]** between scans. 
+To meet the above information, one can provide a short description like this: This study presented a **Personal [Organism]** metabolomics profile from **a single individual over a 10-month period [Sample Description]**. About 120 uL of **the serum sample [Tissue/Cell Type]** was used for this study. Data were recorded for the **m/z region of 50–1000 in V-mode [m/z Region]** with **a scan time of 0.20s [Scan Time]** and **dwell time of 0.01s [Dwell Time]** between scans. 
 
 ## Methods - Experimental Preparation
 
@@ -30,14 +30,14 @@ To meet the above information, one can provide a short discription like this: Th
   - QC Replicates --> _Run a suitable number of QC samples to achieve system stability._
 - Sample Handling & Preparation
   - Number of Sub-aliquots --> _Provide information about what users have done to avoid unnecessary freeze/thaw cycles._
-  - Storage of Sub-aliquots --> _Provede information about what users have done to avoid the freezer malfunction takes place._
+  - Storage of Sub-aliquots --> _Provide information about what users have done to avoid the freezer malfunction takes place._
 - Analytical Sequence Preparation
   - Order of the Samples --> _Make sure the the order of the samples is randomized. This is to avoid introducing bias due to changes between run "batch" effects._ 
   - Order of QC Samples --> _Make sure the order of QC samples is not randomized. It should be inserted regularly in the run sequence._ 
   - Number of QC Samples 
   - Solution Injections --> _Standard solution injections should be avoided within the batch of test samples, as the system can be disequilibrated by the injection of non-matrix solutions._
   - Blank Sample Injections --> _Blank sample injections should be avoided._
-  - Way to imporve quantification aspects
+  - Way to improve quantification aspects
 
 - _**For Untargeted Metabolomics **_
   - In untargeted metabolomic studies, data analysis strategies require some steps involving raw data acquisition, normalization, scaling and feature and peak detection in order to finally reach biomarker detection and identification. 
