@@ -44,7 +44,7 @@ To meet the above information, one can provide a short description like this: Th
 
 ## Data Processing & Quality Evaluation
 
-From the raw data acquired, observe the following metrics from indicative chromatographic peaks located at the beginning, middle and end of the chromatogram.
+From the raw data acquired, observe the following metrics from indicative chromatographic peaks located at the **beginning, middle and end of the chromatogram**.
 
 - Peak Width
 - Retention Time
