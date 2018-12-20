@@ -1,17 +1,15 @@
 **Minimum checklist for the metabolomics QC experiment**
 
-## Material - Instrument & Software
+## Material 
 
 - Chromatographic Materials & Instrumentation
-  - Analytical columns, Pre-columns filters and Guard columns
+  - Analytical columns
   - Instrument
   - Ion Source
   - Ionization Mode
-- Software
-  - Data Acquisition Software
-  - Data Processing Software
-  - Data Analysis Software 
-  - Others (e.g., Software for Peak Picking)
+  
+To meet the above information, one can provide a short discription like this: Chromatographic analysis has been performed on a **HSS T3 C18 column[Analytical columns]**. And an **ultrahigh performance liquid chromatography (U(H)PLC) system coupled to a high-resolution mass spectrometer[Instrument]** with an **ESI source[Ion Source]** has been adopted.The analysis was performed **in positive (ESI+) mode [Ionization Mode]**.
+
 
 ## Methods - Experimental design
 
@@ -23,21 +21,22 @@ A short introduction of the experiment. Provide the information as follows.
 - Scan Time
 - Dwell Time
 
+To meet the above information, one can provide a short discription like this: This study presented a **Personal [Organism]** metabolomics profile from **a single individual over a 10-month period [Sample Description]**. About 120 uL of **the serum sample [Tissue/Cell Type]** was used for this study. Data were recorded for the **m/z region of 50–1000 in V-mode [m/z Region]** with **a scan time of 0.20s [Scan Time]** and **dwell time of 0.01s [Dwell Time]** between scans. 
+
 ## Methods - Experimental Preparation
 
 - Analytical System Preparation
-  - Mass Accuracy
-  - QC Replicates 
+  - Condition of Mass Spectrometer --> _Make sure the mass spectrometer is in a suitable condition for the analysis of samples. Provide information about what users have done to achieve maximum mass accuracy and resolution before starting the experiment._
+  - QC Replicates --> _Run a suitable number of QC samples to achieve system stability._
 - Sample Handling & Preparation
-  - Number of Sub-aliquots
-  - Storage of Sub-aliquots
-  - Sample preparation procedure
+  - Number of Sub-aliquots --> _Provide information about what users have done to avoid unnecessary freeze/thaw cycles._
+  - Storage of Sub-aliquots --> _Provede information about what users have done to avoid the freezer malfunction takes place._
 - Analytical Sequence Preparation
-  - Order of the Samples
-  - Order of QC Samples
-  - Number of QC Samples
-  - Solution Injections
-  - Blank Sample Injections
+  - Order of the Samples --> _Make sure the the order of the samples is randomized. This is to avoid introducing bias due to changes between run "batch" effects._ 
+  - Order of QC Samples --> _Make sure the order of QC samples is not randomized. It should be inserted regularly in the run sequence._ 
+  - Number of QC Samples 
+  - Solution Injections --> _Standard solution injections should be avoided within the batch of test samples, as the system can be disequilibrated by the injection of non-matrix solutions._
+  - Blank Sample Injections --> _Blank sample injections should be avoided._
   - Way to imporve quantification aspects
 
 - _**For Untargeted Metabolomics **_
