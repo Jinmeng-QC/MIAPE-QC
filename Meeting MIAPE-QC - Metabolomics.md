@@ -5,7 +5,10 @@
 ## Material 
 
 - Chromatographic Materials & Instrumentation
-  - Instrument
+  - Instrument and software
+  
+  Softwares include but are not limited to the following:
+  Data acquisition and processing software (e.g., Excalibur, MassLYnx, Analyst, or other). Special software for peak picking such as Marker Lynx, Sieve, MarkerView (or other vendor software), or open-source/free software (XCMS, MzMine, MetAlign or other). Microsoft Excel, Statistica, and other advanced spreadsheet software. SIMCA-P or other software for multivariate statistical analysis.
   - Ion Source
   - Ionization Mode
   
