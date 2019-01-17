@@ -5,14 +5,15 @@
 ## Material 
 
 - Chromatographic Materials & Instrumentation
-  - Instrument and software
+  - Instrumentation
+  - Software
   
   Softwares include but are not limited to the following:
   Data acquisition and processing software (e.g., Excalibur, MassLYnx, Analyst, or other). Special software for peak picking such as Marker Lynx, Sieve, MarkerView (or other vendor software), or open-source/free software (XCMS, MzMine, MetAlign or other). Microsoft Excel, Statistica, and other advanced spreadsheet software. SIMCA-P or other software for multivariate statistical analysis.
   - Ion Source
   - Ionization Mode
   
-To meet the above information, one can provide a short description like this: Chromatographic analysis has been performed on a HSS T3 C18 column. And an **ultrahigh performance liquid chromatography (U(H)PLC) system coupled to a high-resolution mass spectrometer[Instrument]** with an **ESI source[Ion Source]** has been adopted. The analysis was performed **in positive (ESI+) mode [Ionization Mode]**.
+To meet the above information, one can provide a short description like this: Chromatographic analysis has been performed on a HSS T3 C18 column. And an **ultrahigh performance liquid chromatography (U(H)PLC) system [Instrumentation]** coupled to a **high-resolution mass spectrometer [Software]** with an **ESI source [Ion Source]** has been adopted. The analysis was performed **in positive (ESI+) mode [Ionization Mode]**.
 
 
 ## Methods - Experimental design
