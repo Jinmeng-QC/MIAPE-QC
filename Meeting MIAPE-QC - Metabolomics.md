@@ -28,9 +28,9 @@ Table 1
 
 |ID|Matabolites|Formula|Monoisotopic mass|Precursor ion|Product ion|RT(min)|Molecular weight|Dwell time|
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
-1|2-Hydroxyisovaleric acid|C5H10O3|118.06|117|71|6.0|118.13|0.005
-2|2-MethylHippuric acid|C10H11NO3|193.20|192|148|8.2|193.20|0.005
-3|3-Methylhistidine|C7H11N3O2|169.09|170|109|19.0|169.17|0.003
+1|2-Hydroxyisovaleric acid|C<sub>5</sub>H<sub>10</sub>O<sub>3</sub>|118.06|117|71|6.0|118.13|0.005
+2|2-MethylHippuric acid|C<sub>10</sub>H<sub>11</sub>NO<sub>3</sub>|193.20|192|148|8.2|193.20|0.005
+3|3-Methylhistidine|C<sub>7</sub>H<sub>11</sub>N<sub>3</sub>O<sub>2</sub>|169.09|170|109|19.0|169.17|0.003
 
 ## Methods - Experimental Preparation
 
