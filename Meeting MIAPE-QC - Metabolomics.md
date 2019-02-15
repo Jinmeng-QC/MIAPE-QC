@@ -1,4 +1,5 @@
-**MIAPE-QC** 
+# Minimum information when reporting the metabolomics/ shotgun proteomics QC experiment
+
 
 ## General Features - Global descriptors
 - Contact information (responsible person or role)
@@ -63,16 +64,4 @@ Provide a list/table that contains the dwell times of analytes that be detected 
 
 To meet the above information, one can provide a short description like this:
 
-This study presented a **personal [Organism]** metabolomics profile from **a single individual over a 9-month period [Sample description]**. About 120 uL of **the serum sample [Tissue/Cell type]** was used for this study. **Proteins were precipitated by incubating the samples at -20°C for 1 h. Samples were then centrifuged at 10,000 rpm at 4°C for 10 min. The supernatant was collected and dried for metabolomics analysis. The urea solution had been prepared during the week before denaturation took place [Sample handling and preparation]**. Chromatographic analysis was performed on a **HSS T3 C18 column [Analytical chromatography columns]**.And an **ultrahigh performance liquid chromatography (U(H)PLC) system [Chromatography instrument]** coupled to a **high-resolution mass spectrometer by SCIEX [Mass spectrometer]** with an **ESI source [Ion Source]** was adopted for the identification of metabolite. The analysis was performed in **positive (ESI+) mode [Ionization mode]**. **Waters MassLYnx 4.10.0 [Software]** was adopted for data acquisition and processing, and **SCIEX MarkerView 1.3.1 [Software]** was used for peak picking. Data were recorded for the **m/z region of 50–1000 in V-mode [m/z region]** with a **scan time of 0.20s [Scan time]** and dwell time of 0.01s between scans. The collision energy for each analyte after direct infusion and optimum time window and dwell times are presented in **Table 1 [Retention time variation & Dwell Time variation]**. The samples were analyzed in **random order [Sample Analysis Order]** and QC samples were analyzed **every 5 samples [QC Sample Analysis Order]**. For the chromatography alignment, only **ions with intensity above 5,000 counts [Ion Intensity]** and **retention time window within 0.2 min [Retention Time]** were selected. 
-
-
-
-
-
-Table 1
-
-|ID|Matabolites|Formula|Monoisotopic mass|Precursor ion|Product ion|RT(min)|Molecular weight|Dwell time|
-|---|---------|-------|------|------|------|------|------|------|
-|1|2-Hydroxyisovaleric acid|C<sub>5</sub>H<sub>10</sub>O<sub>3</sub>|118.06|117|71|6.0|118.13|0.005|
-|2|2-MethylHippuric acid|C<sub>10</sub>H<sub>11</sub>NO<sub>3</sub>|193.20|192|148|8.2|193.20|0.005|
-|3|3-Methylhistidine|C<sub>7</sub>H<sub>11</sub>N<sub>3</sub>O<sub>2</sub>|169.09|170|109|19.0|169.17|0.003|
+This study presented a **personal [Organism]** metabolomics profile from **a single individual over a 9-month period [Sample description]**. About 120 uL of **the serum sample [Tissue/Cell type]** was used for this study. **Proteins were precipitated by incubating the samples at -20°C for 1 h. Samples were then centrifuged at 10,000 rpm at 4°C for 10 min. The supernatant was collected and dried for metabolomics analysis. The urea solution had been prepared during the week before denaturation took place [Sample handling and preparation]**. Chromatographic analysis was performed on a **HSS T3 C18 column [Analytical chromatography columns]**.And an **ultrahigh performance liquid chromatography (U(H)PLC) system [Chromatography instrument]** coupled to a **high-resolution mass spectrometer by SCIEX [Mass spectrometer]** with an **ESI source [Ion Source]** was adopted for the identification of metabolite. The analysis was performed in **positive (ESI+) mode [Ionization mode]**. **Waters MassLYnx 4.10.0 [Software]** was adopted for data acquisition and processing, and **SCIEX 
