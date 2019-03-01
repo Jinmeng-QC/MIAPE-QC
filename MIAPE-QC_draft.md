@@ -59,16 +59,15 @@ A short introduction of the experiment. Provide the information as follows.
   - Retention time
   - Peak area
   - Scan time 
-- Optimum parameters: Provide the optimum parameters for the software used for peak alignment, peak peaking and integration.
 
 ## Data Analysis - Quality Evaluation 
 
 - Retention time variation
 
-Provide a list/table that contains the retention times of analytes that be detected and monitored.
+Provide a list/table that contains the retention times of each m/z or analytes that be detected and monitored.
 - Dwell time variation
 
-Provide a list/table that contains the dwell times of analytes that be detected and monitored.
+Provide a list/table that contains the dwell times of each m/z or analytes that be detected and monitored.
 
 
 
