@@ -4,7 +4,7 @@
 ## General Features - Global descriptors
 - Contact information (responsible person or role)
 
-  provide name, affiliation and stable contact information
+  Provide name, affiliation and stable contact information
 - Experiment identifier or name
 
 ## General Features - Material 
